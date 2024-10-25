@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Android**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/deshmukh-omkar-digambar-373b80304/](https://www.linkedin.com/in/deshmukh-omkar-digambar-373b80304/)
+- 👨‍💻 All of my projects are available at [(https://deshmukhomkar2005.github.io/portfolio/)/](https://deshmukhomkar2005.github.io/portfolio/)]
 
 - 📫 How to reach me **deshmukhomkardigambar@gmail.com**
 
