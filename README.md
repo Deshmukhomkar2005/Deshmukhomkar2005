@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning 
 
-- 👨‍💻 All of my projects are available at [(My Projects)](https://deshmukhomkar2005.github.io/portfolio/)]
+- 👨‍💻 All of my projects are available at [(My Projects)](https://github.com/Deshmukhomkar2005/portfolio/blob/main/index.html)]
 
 - 📫 How to reach me **deshmukhomkardigambar@gmail.com**
 
